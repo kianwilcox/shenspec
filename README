@@ -1,0 +1,1 @@
+Here's an initial stab at some basic unit testing facilities for the Shen language. To use, load up a Shen repl from this directory and type (load "run.shen").
